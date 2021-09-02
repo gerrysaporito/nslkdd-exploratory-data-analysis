@@ -9,7 +9,7 @@ I wrote an article on my website on my findings which can be found [here](https:
 
 This repository is a deep dive of the NSL-KDD dataset. Most of the general findings can be found in an [article](https://gerrysaporito.com/articles/technology) I wrote on my website
 
-### Learning Experience 📚
+### Learning Experience 📚 
 
 This project gave me a chance to work with new technologies including:
 
